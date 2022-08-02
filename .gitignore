@@ -1,2 +1,5 @@
 *.tar.gz
 .ipynb_checkpoints/
+.DS_Store
+.idea/
+fund_detail_reports/
